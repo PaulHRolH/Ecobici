@@ -12,7 +12,3 @@
 - matplotlib
 - pandas 
 
-
-## Live Demo (if available)
-
-[Portfolio]([https://gioudi.github.io/repository](https://github.com/PaulHRolH/Ecobici/blob/main/Ecobici.ipynb))
